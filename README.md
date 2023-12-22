@@ -22,4 +22,4 @@ TRUE.
 # OBJECTIVE
 •	Analysed a student database consisting of different tables to provide insights and scrutinize data regarding student performance, score analysis, and the efficiency of the teaching process. 
 
-•	Applied SQL techniques, including the use of Common Table Expressions (CTEs), Window Functions, and Joins, to perform data modeling and address key questions.
+•	Applied SQL techniques, including the use of **Common Table Expressions (CTEs), Window Functions, and Joins**, to perform data modeling and address key questions.
